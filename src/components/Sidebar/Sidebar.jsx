@@ -10,6 +10,8 @@ function SideBar () {
         <div className="inherit">
         <Link to="map">map</Link>
         <br/>
+        <Link to="map-route">map route</Link>
+        <br/>
         <Link to="autocomplite">autocomplite</Link> 
         </div>
     </div>
