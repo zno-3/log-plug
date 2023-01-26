@@ -1,3 +1,9 @@
 .leaflet-container{
     min-height: 500px;
 }
+
+.context-popup{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
